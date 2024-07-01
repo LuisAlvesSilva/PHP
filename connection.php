@@ -3,7 +3,7 @@
 class Crud {
     private static $serverName = "localhost";
     private static $uid = "sa";
-    private static $pwd = "databit@2024";
+    private static $pwd = "...";
     private static $database = "CRUD";
     private static $conn = null;
 
